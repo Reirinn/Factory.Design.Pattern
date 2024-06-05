@@ -5,7 +5,7 @@ In Factory pattern, we create object without exposing the creation logic to the 
 
 Read more at : https://www.tutorialspoint.com/design_pattern/factory_pattern.htm 
 
-# What are the advantages of Factory Pattern?
+# What are the advantages of Factory Design Pattern?
 
 1. Factory design pattern provides approach to code for interface rather than implementation.
 2. Factory pattern removes the instantiation of actual implementation classes from client code. Factory pattern makes our code more robust, less coupled and easy to extend. For example, we can easily change PC class implementation because client program is unaware of this.
